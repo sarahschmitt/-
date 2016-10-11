@@ -1,3 +1,5 @@
+command | description
+------- | -----------
 ls | list directory contents
 cd/directorypath | change to directory
 du | display how much space each file takes up
