@@ -1,0 +1,4 @@
+ls | list directory contents
+cd/directorypath | change to directory
+du | display how much space each file takes up
+file filename | determine what type of data is within a file
